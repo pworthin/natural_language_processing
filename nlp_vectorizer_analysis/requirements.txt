@@ -1,0 +1,7 @@
+nltk
+pandas
+matplotlib
+bs4
+tqdm
+scikit-learn
+pandastable
